@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
+  <img src="./assets/section-stats.svg" alt="Character stats and skill tree" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/RuijieSpace/Deepstream_Python_Stack"><img src="./assets/section-project.svg" alt="Featured project - Deepstream Python Stack" width="100%"/></a>
 </p>
 
 <p align="center">
   <img src="./assets/section-learning.svg" alt="Currently learning" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./assets/section-stats.svg" alt="Character stats and skill tree" width="100%"/>
 </p>
 
 <p align="center">
