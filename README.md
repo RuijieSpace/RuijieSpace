@@ -1,67 +1,151 @@
-<h1 align="center">Hi 👋, I'm Ruijie 👨‍💻</h1>
-<h3 align="center">A passionate AI algorithm engineer from Shenzhen China</h3>
+<!--
+  ██████╗ ██╗   ██╗██╗     ██╗███████╗
+  ██╔══██╗██║   ██║██║     ██║██╔════╝
+  ██████╔╝██║   ██║██║     ██║█████╗
+  ██╔══██╗██║   ██║██║██   ██║██╔══╝
+  ██║  ██║╚██████╔╝██║╚█████╔╝███████╗
+  ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚════╝ ╚══════╝
 
-# ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
+  A pixel-crafted profile · Academic Pixel Style
+  Last updated: 2026
+-->
 
 <div align="center">
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/496045533/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=FlusPrism&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
+<!-- ▸ 像素风顶部横幅：白底 + 黑边 + 偏移阴影 -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=120&section=header&text=Hi%2C%20I'm%20Ruijie%20%F0%9F%91%8B&fontSize=48&fontColor=1A1A1A&fontAlignY=55&desc=AI%20Algorithm%20Engineer%20%C2%B7%20Shenzhen%2C%20China&descSize=16&descAlignY=80" />
 
 </div>
 
-#  🙋 Hello
+<div align="center">
+
+`▸ PROFILE.EXE LOADED` &nbsp;&nbsp;●&nbsp;&nbsp; `STATUS: ONLINE` &nbsp;&nbsp;●&nbsp;&nbsp; `LOCATION: Shenzhen, CN`
+
+</div>
+
+---
+
+## 📖 `ABOUT_ME.md`
+
+```yaml
+name:       Ruijie
+role:       AI Algorithm Engineer
+location:   Shenzhen, China 🇨🇳
+interests:  [coding, photography, reading, traveling]
+motto:      "通过代码的重复使用和延展，构建完美体系"
+```
+
+> 嗨，你好！我是 **Ruijie**，一名来自深圳的 AI 算法工程师。
+> 热爱编程、摄影、读书、旅行 —— 希望能成为一名优秀的开发者，通过代码让这个世界变得更美好。
+
+---
+
+## ⚡ `TECH_STACK.json`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-FF6F00?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🎯 `NOW_LEARNING.log`
+
+```bash
+$ cat ~/.learning_goals
+[✓] DeepStream Python 工程化
+[→] LLM 推理优化 & 部署
+[→] 大规模视频分析 Pipeline
+[ ] Edge AI · 多模态融合
+```
+
+---
+
+## 📦 `FEATURED_PROJECTS.zip`
 
 <table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;嗨，你好，我是 Ruijie。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-<tr><td>
-
-### 🏢 About My Github 
- <table>
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='150' src="https://github-readme-stats.vercel.app/api?username=FlusPrism&show_icons=true" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlusPrism&layout=compact" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=FlusPrism&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
- </table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RuijieSpace/Deepstream_Python_Stack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuijieSpace&repo=Deepstream_Python_Stack&theme=default&bg_color=FFFFFF&title_color=1A1A1A&text_color=555555&icon_color=FF6B35&border_color=1A1A1A" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- 🚀 占位卡片：你有第二个项目就替换 repo 名 -->
+      <a href="https://github.com/RuijieSpace?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuijieSpace&repo=RuijieSpace&theme=default&bg_color=FFFFFF&title_color=1A1A1A&text_color=555555&icon_color=7FB069&border_color=1A1A1A" />
+      </a>
+    </td>
+  </tr>
 </table>
 
-# Future
-在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激🙏与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
+---
 
+## 📊 `GITHUB_STATS.dat`
 
-<!-- https://github.com/kyechan99/capsule-render -->
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RuijieSpace&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=1A1A1A&text_color=555555&icon_color=FF6B35&border_color=1A1A1A&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuijieSpace&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=1A1A1A&text_color=555555&border_color=1A1A1A" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuijieSpace&theme=default&hide_border=false&background=FFFFFF&stroke=1A1A1A&ring=FF6B35&fire=FF6B35&currStreakLabel=1A1A1A&border=1A1A1A" />
+
+</div>
+
+---
+
+## 🔗 `CONNECT.sh`
+
 <p align="center">
-<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+  <a href="https://panxiaolan.blog.csdn.net/">
+    <img src="https://img.shields.io/badge/CSDN-%E6%B3%9B%E6%BB%A5%E5%85%88%E7%94%9F-C32136?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://space.bilibili.com/496045533/">
+    <img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://github.com/RuijieSpace">
+    <img src="https://img.shields.io/badge/GitHub-%40RuijieSpace-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat-%E5%BE%AE%E4%BF%A1-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
 </p>
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────┐
+  │   💬  Reach out · 欢迎交流              │
+  │   ─────────────────────────────           │
+  │   📮  CSDN  @泛滥先生                     │
+  │   📺  Bilibili  UP 主                     │
+  │   💻  GitHub  @RuijieSpace                │
+  └──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ▸ 访问量统计 -->
+<img src="https://komarev.com/ghpvc/?username=RuijieSpace&label=Profile%20Views&color=FF6B35&style=flat-square" />
+<img src="https://img.shields.io/github/followers/RuijieSpace?label=Followers&style=flat-square&color=1A1A1A" />
+
+<br/><br/>
+
+<!-- ▸ 像素风 footer -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=1A1A1A&height=80&section=footer&text=Thanks%20for%20visiting%20%F0%9F%92%BE&fontSize=20&fontColor=1A1A1A&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free%20!&descSize=12&descAlignY=95" />
+
+<sub>`// Built with ❤️ and pixels · 2026`</sub>
+
+</div>
